@@ -1,0 +1,13 @@
+C:\Users\Nico\Desktop\SegundoParcial.Crespi\Segundo Parcial\bin\Debug\netcoreapp3.1\Segundo Parcial.exe
+C:\Users\Nico\Desktop\SegundoParcial.Crespi\Segundo Parcial\bin\Debug\netcoreapp3.1\Segundo Parcial.deps.json
+C:\Users\Nico\Desktop\SegundoParcial.Crespi\Segundo Parcial\bin\Debug\netcoreapp3.1\Segundo Parcial.runtimeconfig.json
+C:\Users\Nico\Desktop\SegundoParcial.Crespi\Segundo Parcial\bin\Debug\netcoreapp3.1\Segundo Parcial.runtimeconfig.dev.json
+C:\Users\Nico\Desktop\SegundoParcial.Crespi\Segundo Parcial\bin\Debug\netcoreapp3.1\Segundo Parcial.dll
+C:\Users\Nico\Desktop\SegundoParcial.Crespi\Segundo Parcial\bin\Debug\netcoreapp3.1\Segundo Parcial.pdb
+C:\Users\Nico\Desktop\SegundoParcial.Crespi\Segundo Parcial\obj\Debug\netcoreapp3.1\Segundo Parcial.csproj.AssemblyReference.cache
+C:\Users\Nico\Desktop\SegundoParcial.Crespi\Segundo Parcial\obj\Debug\netcoreapp3.1\Segundo Parcial.AssemblyInfoInputs.cache
+C:\Users\Nico\Desktop\SegundoParcial.Crespi\Segundo Parcial\obj\Debug\netcoreapp3.1\Segundo Parcial.AssemblyInfo.cs
+C:\Users\Nico\Desktop\SegundoParcial.Crespi\Segundo Parcial\obj\Debug\netcoreapp3.1\Segundo Parcial.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\SegundoParcial.Crespi\Segundo Parcial\obj\Debug\netcoreapp3.1\Segundo Parcial.dll
+C:\Users\Nico\Desktop\SegundoParcial.Crespi\Segundo Parcial\obj\Debug\netcoreapp3.1\Segundo Parcial.pdb
+C:\Users\Nico\Desktop\SegundoParcial.Crespi\Segundo Parcial\obj\Debug\netcoreapp3.1\Segundo Parcial.genruntimeconfig.cache
